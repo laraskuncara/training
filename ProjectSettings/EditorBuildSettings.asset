@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/bolagilaScene.unity
     guid: efb70f24b9aeb1e44aaad043c5b29ed9
+  - enabled: 1
+    path: Assets/Scenes/spaceshooterScene.unity
+    guid: af5ccfb454c64104cbd6c05166395aed
   m_configObjects: {}
